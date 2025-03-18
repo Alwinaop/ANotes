@@ -1,5 +1,9 @@
 # ANotes - Technical Documentation
 
+## Important Notice
+
+This documentation corresponds to **ANotes v1.2.0**. Future updates may introduce changes, additions, or removals to the application’s features, architecture, or technology stack. Please refer to the latest documentation for the most up-to-date information.
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
